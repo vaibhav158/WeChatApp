@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="verify_your_phone_number">Verify your Phone Number</string>
+    <string name="wechat_will_send_an_sms_to_verify_your_phone_number">WeChat will send an SMS to verify your phone number</string>
+    <string name="type_your_phone_number">Type your Phone Number</string>
+    <string name="continueButton">Continue</string>
+    <string name="status">Status</string>
+    <string name="calls">Calls</string>
+    <string name="chats">Chats</string>
+    <string name="incoming_call">Incoming call from %1$s</string>
+    <string name="delete">Delete</string>
+</resources>
